@@ -20,7 +20,7 @@ I'm not a lawyer, but I believe data privacy is your right. It's *your* data, an
 
 That said, I'm sure that nobody can tell you how to use your own web browser. This script runs entirely *client side* and all it does is automate the manual interactions you'd otherwise have with your browser (using a mouse and a keyboard).
 
-The E.U.'s GDPR established the "right to be forgotten". In the U.S. we have only state laws (such as the California Consumer Privacy Act (CCPA)). Yet, even in territories where these protections exist, platforms either don't comply with them or, if they do comply, they violate the spirit of these laws through obscuring the deletion workflow.
+The European Union's GDPR established the "right to be forgotten". In the U.S. we have only state laws (such as the California Consumer Privacy Act (CCPA)). Yet, even in territories where these protections exist, platforms either don't comply with them or, if they do comply, they violate the spirit of these laws through obscuring the deletion workflow.
 
 Your personal information isn't merely a corporate asset to be mined, analyzed, and monetized without recourse. The ability to withdraw consent — to erase your digital past — stands as the last line of defense against mass surveillance. You have the final say.
 
