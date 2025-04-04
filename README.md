@@ -49,7 +49,7 @@ LinkedIn may temporarily restrict your account activity (through a temporary IP 
 1. Open your web browser
 2. Go to the LinkedIn comments page. As of writing this, the URL is: https://www.linkedin.com/in/{username}/recent-activity/comments
 3. Open your web browser's JavaScript console
-4. Modify the GLOBALS section in the `linkedout.js` script. Simply change the `userName` variable to whatever your username is (in the LinkedIn URL).
+4. Modify the `GLOBALS` section in the `linkedout.js` script. Simply change the `userName` variable to whatever your username is (in the LinkedIn URL).
 5. Paste the contents of the `linkedout.js` script in the console and execute it!
 
 You will see things happen. Comment threads will expand, delete dropdowns will be clicked, dialogues will appear confirming the deletions, etc. 
