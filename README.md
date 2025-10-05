@@ -8,7 +8,7 @@ This script is for automated deletion of your LinkedIn comments.
 
 ## Why
 
-As of now, LinkedIn doesn't offer a bulk-delete option for personal activity. There's a [data-deletion form](https://www.linkedin.com/help/linkedin/ask/TS-DDF) in an obscure location, and they're mandated by state laws (such as the California Consumer Privacy Act) to delete your data. However, if your account is restricted for *any* reason, they refuse your request. Restrictions are handed out very liberally for a lot of different reasons because it is in their interests to hoard your data.  
+As of now, LinkedIn doesn't offer a bulk-delete option for personal activity. There's a [data-deletion form](https://www.linkedin.com/help/linkedin/ask/TS-DDF) in an obscure location, and they're mandated by state laws (such as the California Consumer Privacy Act) to delete your data. However, if your account is restricted for *any* reason, they refuse your request. Restrictions are handed out very liberally for a lot of different reasons because data hoarding is preferred.  
 
 This tool aims to put *you* in charge of your own data. It exists because what should be a basic right requires technical intervention to exercise. 
 
@@ -26,11 +26,11 @@ Your personal information isn't merely a corporate asset to be mined, analyzed, 
 
 ### Why does the script show error messages?
 
-This script was developed as a practical solution for personal use rather than polished software. I don't particularly enjoy writing JavaScript on a Friday evening... 
+This script was developed as a practical solution for personal use rather than as polished software.
 
-While it may display various error messages during execution, it's perfectly functional (as of 04/02/25).
+While it may display various error messages during execution, it's perfectly functional (as of 04/02/25). The errors are primarily harmless JavaScript console warnings that don't affect the deletion process. 
 
-The errors are primarily harmless JavaScript console warnings that don't affect the deletion process. Interestingly, if you examine LinkedIn's own frontend code, you'll notice it generates numerous similar errors during normal operation. That's because LinkedIn is terrible.
+Interestingly, LinkedIn's own frontend code generates numerous similar errors during normal operation.
 
 ### Will LinkedIn still retain my deleted content?
 
